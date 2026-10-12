@@ -10,6 +10,26 @@ Le code du site **https://angkorterrainvivant.com**.
 - **Chaque modification enregistrée sur la branche `main` est mise en ligne automatiquement**, en environ une minute.
 - L'hébergement (Vercel) et le nom de domaine sont déjà réglés : vous n'avez rien à faire de ce côté.
 
+## Liens directs
+
+| Pour modifier | Lien |
+|---|---|
+| L'accueil | https://github.com/soksovanrith/angkor-terrain-vivant/edit/main/site/index.html |
+| Les destinations | https://github.com/soksovanrith/angkor-terrain-vivant/edit/main/site/destinations.html |
+| Les itinéraires | https://github.com/soksovanrith/angkor-terrain-vivant/edit/main/site/itineraires.html |
+| Notre histoire | https://github.com/soksovanrith/angkor-terrain-vivant/edit/main/site/notre-histoire.html |
+| Réserver | https://github.com/soksovanrith/angkor-terrain-vivant/edit/main/site/reserver.html |
+| Les couleurs et polices | https://github.com/soksovanrith/angkor-terrain-vivant/edit/main/site/assets/css/site.css |
+| Ajouter des photos | https://github.com/soksovanrith/angkor-terrain-vivant/upload/main/site/assets/img |
+
+### Changer une photo
+
+1. Ouvrez le lien « Ajouter des photos », déposez la nouvelle photo (un nouveau nom, sans espaces, par
+   exemple `angkor-wat-2.jpg`), puis cliquez sur **Commit changes**.
+2. Ouvrez la page concernée avec son lien ci-dessus, faites **Ctrl+F** pour trouver l'ancien nom de la photo,
+   remplacez-le par le nouveau, puis cliquez sur **Commit changes...** en haut à droite et confirmez.
+3. Gardez la même forme que l'ancienne photo (paysage ou portrait), environ 1600 pixels de large, en JPG.
+
 ## Modifier depuis le navigateur (le plus simple, rien à installer)
 
 1. Ouvrez https://github.com/soksovanrith/angkor-terrain-vivant en étant connecté à votre compte GitHub.
