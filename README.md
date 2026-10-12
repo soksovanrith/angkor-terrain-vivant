@@ -9,6 +9,10 @@ Le code du site **https://angkorterrainvivant.com**.
 - Le site, c'est le dossier **`site/`** : du HTML, du CSS et du JavaScript simples, sans étape de construction.
 - **Chaque modification enregistrée sur la branche `main` est mise en ligne automatiquement**, en environ une minute.
 - L'hébergement (Vercel) et le nom de domaine sont déjà réglés : vous n'avez rien à faire de ce côté.
+- Ce dépôt est **public** : tout le monde peut lire ce code (c'est le même que celui du site), mais seules
+  les personnes invitées peuvent le modifier.
+- Pour que votre adresse email n'apparaisse pas dans l'historique public : sur GitHub, ouvrez
+  **Settings > Emails** et cochez **Keep my email addresses private**.
 
 ## Liens directs
 
@@ -103,6 +107,9 @@ This is the code of **https://angkorterrainvivant.com**.
 - The website is the **`site/`** folder: plain HTML, CSS and JavaScript, no build step.
 - **Every change saved to the `main` branch goes live automatically**, in about a minute. Hosting (Vercel)
   and the domain are already set up.
+- This repository is **public**: anyone can read the code (the same code the site serves), but only invited
+  people can change it. To keep your email address out of the public history, turn on GitHub
+  **Settings > Emails > Keep my email addresses private**.
 - **Edit in the browser:** open the file on GitHub, click the **pencil** icon, make the change, then
   **Commit changes** (keep "Commit directly to the main branch"). To add photos: open `site/assets/img/`,
   then **Add file > Upload files**.
