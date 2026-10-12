@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Angkor Terrain Vivant">
+  <rect width="64" height="64" rx="12" fill="#12233d"/>
+  <g fill="none" stroke="#d69e2e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 12 L38 26 L32 30 L26 26 Z"/>
+    <path d="M17 24 L21 34 L17 37 L13 34 Z"/>
+    <path d="M47 24 L51 34 L47 37 L43 34 Z"/>
+    <path d="M10 44 H54"/>
+    <path d="M14 44 V38 M22 44 V36 M32 44 V32 M42 44 V36 M50 44 V38"/>
+  </g>
+  <path d="M10 50 H54" stroke="#4caf50" stroke-width="3" stroke-linecap="round"/>
+</svg>

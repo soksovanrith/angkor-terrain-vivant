@@ -1,0 +1,13 @@
+# This repository holds only the website (site/) and its how-to (README.md).
+# Everything else in this folder is private working material and stays out.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/site/
+
+# Vercel's local link folder and system junk, at any depth
+.vercel/
+.DS_Store
+Thumbs.db
+desktop.ini
